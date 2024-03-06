@@ -1,2 +1,3 @@
-# flutter_contact_app
-example flutter app
+Example flutter app\
+by Woranai Boonchai\
+including Source Code and APK example file
